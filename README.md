@@ -9,4 +9,4 @@ This repository contains a logistic regression model applied to the Pima Indians
 ## Run in Colab
 Click the badge below to run directly:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/你的帳號/pima-diabetes/blob/main/pima_diabetes_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wjason930/pima-diabetes/blob/main/pima_diabetes_analysis.ipynb)
